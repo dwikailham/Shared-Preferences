@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="menu_color">
+        <item>Electromagnetic</item>
+        <item>Blue Nights</item>
+        <item>Pico Void</item>
+        <item>Mazarine Blue</item>
+        <item>Chan Gang Grey</item>
+        <item>BlueBerry Soda</item>
+        <item>Manohanacha Gold</item>
+        <item>Rise-N-Shine</item>
+        <item>Hint Of Pensive</item>
+        <item>Lynx White</item>
+    </string-array>
+    <string-array name="menu_color_value">
+        <item>#2f3640</item>
+        <item>#353b48</item>
+        <item>#192a56</item>
+        <item>#273c75</item>
+        <item>#718093</item>
+        <item>#7f8fa6</item>
+        <item>#e1b12c</item>
+        <item>#fbc531</item>
+        <item>#dcdde1</item>
+        <item>#f5f6fa</item>
+    </string-array>
+</resources>
